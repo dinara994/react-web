@@ -1,0 +1,28 @@
+.card{
+    width: 275px;
+    height: 173px;
+    text-align: left;
+    padding: 28px;
+    background: #FFFFFF;
+    border: 1px solid #FF3E6C;
+    box-sizing: border-box;
+}
+.main-title{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: left;
+    color: #FF3E6C;
+}
+.main-desc {
+    padding: 13px 0 17px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+.svg svg {
+    text-align: right;
+}
+svg {
+    margin-right: 4px;
+}
